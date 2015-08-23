@@ -268,3 +268,14 @@ footer a:hover {
 .owl-carousel blockquote p {
     font-size: 20pt;
 }
+
+.center-table
+{
+  margin: 0 auto !important;
+  float: none !important;
+}
+
+.center-table th
+{
+    text-align: center;
+}
