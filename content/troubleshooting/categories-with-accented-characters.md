@@ -8,7 +8,6 @@ weight: 10
 ---
 
 ## Trouble: Categories with accented characters
-
 One of my categories is named "Le-carré," but the link ends up being generated like this:
 
     categories/le-carr%C3%A9
