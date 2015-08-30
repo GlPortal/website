@@ -232,7 +232,7 @@ footer a:hover {
     text-decoration: none;
 }
 
-.point a, .counterpoint a {
+.point a .link, .counterpoint a .link{
     color: rgb(7,162,166);
 }
 
