@@ -19,7 +19,7 @@ pluralizeListTitles = false
 [[menu.main]]
     name = "About"
     identifier = "about"
-    pre = "<i class='fa fa-rocket'></i>"
+    pre = "<i class='fa fa-book'></i>"
     weight = 2
 [[menu.main]]
 [[menu.main]]
