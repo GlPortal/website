@@ -22,7 +22,6 @@ pluralizeListTitles = false
     pre = "<i class='fa fa-book'></i>"
     weight = 2
 [[menu.main]]
-[[menu.main]]
     name = "Quick Start"
     identifier = "quick"
     pre = "<i class='fa fa-rocket'></i>"
