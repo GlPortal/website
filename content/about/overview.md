@@ -6,6 +6,6 @@ menu:
 title: About GlPortal
 weight: 0
 ---
-GlPortal is free and open source software.
+GlPortal is a free and open source 3d action game and engine.
 
 {{% youtube 3cknED19Hls %}}

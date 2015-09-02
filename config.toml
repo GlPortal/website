@@ -28,6 +28,6 @@ pluralizeListTitles = false
     weight = 2
 [[menu.main]]
     name = "Contribute"
-    identifier = "troubleshooting"
+    identifier = "contribute"
     pre = "<i class='fa fa-wrench'></i>"
     weight = 3
