@@ -18,14 +18,20 @@ pluralizeListTitles = false
     weight = 1
 [[menu.main]]
     name = "About"
-    identifier = "about"
     pre = "<i class='fa fa-book'></i>"
+    identifier = "about"
+    url = "/about"
     weight = 2
 [[menu.main]]
     name = "Quick Start"
     identifier = "quick"
     pre = "<i class='fa fa-rocket'></i>"
     weight = 2
+[[menu.main]]
+    name = "Issues & Help"
+    pre = "<i class='fa fa-life-ring'></i>"
+    url = "/help"
+    weight = 1
 [[menu.main]]
     name = "Contribute"
     identifier = "contribute"
