@@ -14,7 +14,7 @@ pluralizeListTitles = false
 [[menu.main]]
     name = "Download"
     pre = "<i class='fa fa-download'></i>"
-    url = "https://github.com/spf13/hugo/releases"
+    url = "/download"
     weight = 1
 [[menu.main]]
     name = "About"
