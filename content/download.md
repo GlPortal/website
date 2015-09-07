@@ -13,4 +13,4 @@ You can download binary releases at the following locations:
 | http://www.indiedb.com/games/glportal/downloads      |
 
 
-Or you can [build from source](https://github.com/GlPortal/glPortal/blob/master/COMPILE.org "Link title").
+Or you can [build from source](https://github.com/GlPortal/glPortal/blob/master/COMPILE.org).
