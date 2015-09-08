@@ -5,4 +5,4 @@ menu:
 title: Issues & Help
 weight: 0
 ---
-How to contribute to GlPortal.
+You are enthusiastic about game development? Go ahead and fork GlPortal on Github and send us a pull request. If we like your commits we will make you a permanent member of the team.
