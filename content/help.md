@@ -5,4 +5,6 @@ menu:
 title: Issues & Help
 weight: 0
 ---
-You are enthusiastic about game development? Go ahead and fork GlPortal on Github and send us a pull request. If we like your commits we will make you a permanent member of the team.
+Please report all issues you encounter with the game to http://bugs.glportal.de or our bugtracker at Github.
+
+Join our irc channel or our community site if you want to talk to a developer first hand.
