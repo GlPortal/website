@@ -8,8 +8,13 @@ weight: 0
 ---
 You are enthusiastic about game development? Contributing is easy.
 
-* Developer
-Go ahead and fork GlPortal on Github and send us a pull request. If we like your commits we will make you a permanent member of the team.
+# Developer
+Go ahead and fork GlPortal on Github and send us a pull request. If we like your commits we will make you a permanent member of the team with push permission to the team repository.
+## Requirenments
+If you want to become an engine or game developer you need C++ knowledge. For all graphics related tasks you will need to know OpenGL and GLSL in addition.
 
-* Artist
-Check with us which assets we need and you can create what you like most.
+If you want to work on the map editor you need Python knowledge. Blender specific Python knowledge is advantageous.
+# Mapping
+If you want to create maps for GlPortal you need basic knowledge of blender and map design.
+# Artist
+Check with us which assets we need and you can choose the task that suits you.
