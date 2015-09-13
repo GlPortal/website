@@ -6,4 +6,10 @@ menu:
 title: Contributing Overview
 weight: 0
 ---
-How to contribute to GlPortal.
+You are enthusiastic about game development? Contributing is easy.
+
+* Developer
+Go ahead and fork GlPortal on Github and send us a pull request. If we like your commits we will make you a permanent member of the team.
+
+* Artist
+Check with us which assets we need and you can create what you like most.
