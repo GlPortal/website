@@ -17,4 +17,5 @@ If you want to work on the map editor you need Python knowledge. Blender specifi
 # Mapping
 If you want to create maps for GlPortal you need basic knowledge of blender and map design. You can find the instructions on how to install and use the map editor here.
 # Artist
-Check with us which assets we need and you can choose the task that suits you.
+Check with us which assets we need and you can choose the task that suits you best.
+Knowledge of git is useful but not required.
