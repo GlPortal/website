@@ -3,10 +3,11 @@ baseurl = "http://gohugo.io/"
 MetaDataFormat = "yaml"
 pluralizeListTitles = false
 
+
 [params]
   description = "Documentation of Hugo, a fast and flexible static site generator built with love by spf13 and friends in Go"
-  author = "Steve Francia (spf13) and friends"
-
+  author = "GlPortal Team"
+  gameversion = "0.1"
 [taxonomies]
   tag = "tags"
   group = "groups"
