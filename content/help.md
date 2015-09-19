@@ -10,6 +10,7 @@ weight: 0
 To report a bug please register with our site http://bugs.glportal.de .
 Provide an exact description of your problem, stack traces and screenshots where necessary.
 
+![Screenshot of the bugtracker](../img/bugs-screenshot.png)
 # Get help
 Need help setting up GlPortal or fixing a problem with it?
 Join our irc channel or our community site if you want to talk to a developer first hand.
