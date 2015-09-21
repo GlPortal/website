@@ -33,6 +33,13 @@ pluralizeListTitles = false
     pre = "<i class='fa fa-life-ring'></i>"
     url = "/help"
     weight = 1
+
+[[menu.main]]
+    name = "FAQ"
+    pre = "<i class='fa fa-question-circle'></i>"
+    url = "/faq"
+    weight = 1
+
 [[menu.main]]
     name = "Contribute"
     identifier = "contribute"

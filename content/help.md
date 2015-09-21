@@ -7,8 +7,15 @@ weight: 0
 ---
 
 # Report a bug
-To report a bug please register with our site http://bugs.glportal.de .
-Provide an exact description of your problem, stack traces and screenshots where necessary.
+To report a bug please:
+
+- Register with our site http://bugs.glportal.de .
+
+- Create a new Issue in the GlPortal project.
+
+- Provide an exact description of your problem, stack traces and screenshots where necessary.
+
+- Get feedback about your issue and notifications when we fix it.
 
 ![Screenshot of the bugtracker](../img/bugs-screenshot.png)
 # Get help
