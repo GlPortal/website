@@ -9,7 +9,13 @@ weight: 0
 You are enthusiastic about game development? Contributing is easy.
 # Tester
 Can contributing to open source be as easy as playing a video game? Yes it can.
-By playing you help us identify errors in the game or you come up with features that should be in the game.
+By playing you help us identify errors in the game or you come up with features that improve the game.
+
+{{% iconButton "https://bugs.glportal.de/" "Report a Bug" primary bug %}}
+{{% iconButton "https://community.glportal.de/" "Community" primary group %}}
+{{% iconButton "/download/" "Download" primary download %}}
+
+
 # Developer
 Go ahead and fork GlPortal on Github and send us a pull request. If we like your commits we will make you a permanent member of the team with push permission to the team repository.
 ## Requirenments
