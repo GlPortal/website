@@ -13,4 +13,7 @@ We always try to get a working prototype released so that you can keep track of 
 ## It is evolving
 GlPortal is a big open source project and it is still growing. So expect more content and gameplay as we keep developing GlPortal over the years.
 
+## It is hackable
+You can extend GlPortals functionality with JavaScript. Many of GlPortals features are configurable with json. All tools you need for this are open source.
+
 {{% youtube 3cknED19Hls %}}
