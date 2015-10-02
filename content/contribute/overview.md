@@ -46,8 +46,8 @@ If you want to create maps for GlPortal you need basic knowledge of blender and 
 - go through blender tutorials
 - install the GlPortal blender plugin
 
-{{% iconButton "http://archive.blender.org/download/get-blender/index.html" "Blender" default cube %}}
-{{% iconButton "https://bintray.com/glportal/generic/glportal-editor/view" "GlPortal Extension" default cube %}}
+{{% iconButton "http://archive.blender.org/download/get-blender/index.html" "Download Blender" default cube %}}
+{{% iconButton "https://bintray.com/glportal/generic/glportal-editor/view" "Download Extension" default cube %}}
 
 ## Artist
 Check with us which assets we need and you can choose the task that suits you best.
