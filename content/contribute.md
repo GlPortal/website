@@ -1,8 +1,7 @@
 ---
 date: 2015-01-18T02:41:52-07:00
 menu:
-  main:
-    parent: contribute
+  none: 
 title: Contributing Overview
 weight: 0
 ---

@@ -43,5 +43,6 @@ pluralizeListTitles = false
 [[menu.main]]
     name = "Contribute"
     identifier = "contribute"
+    url = "/contribute"  
     pre = "<i class='fa fa-wrench'></i>"
     weight = 3
