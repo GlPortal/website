@@ -6,7 +6,7 @@ title: Issues & Help
 weight: 0
 ---
 
-# Report a bug
+## Report a bug
 To report a bug please:
 
 - Register with our site http://bugs.glportal.de .
@@ -18,6 +18,6 @@ To report a bug please:
 - Get feedback about your issue and notifications when we fix it.
 
 ![Screenshot of the bugtracker](../img/bugs-screenshot.png)
-# Get help
+## Get help
 Need help setting up GlPortal or fixing a problem with it?
 Join our irc channel or our community site if you want to talk to a developer first hand.
