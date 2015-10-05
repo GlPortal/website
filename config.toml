@@ -13,36 +13,37 @@ pluralizeListTitles = false
   group = "groups"
 
 [[menu.main]]
+    name = "Quick Start"
+    identifier = "quick"
+    url = "/quick"
+    pre = "<i class='fa fa-rocket'></i>"
+    weight = 1
+[[menu.main]]
     name = "Download"
     pre = "<i class='fa fa-download'></i>"
     url = "/download"
-    weight = 1
+    weight = 2
 [[menu.main]]
     name = "About"
     pre = "<i class='fa fa-book'></i>"
     identifier = "about"
     url = "/about"
-    weight = 2
-[[menu.main]]
-    name = "Quick Start"
-    identifier = "quick"
-    pre = "<i class='fa fa-rocket'></i>"
-    weight = 2
+    weight = 3
 [[menu.main]]
     name = "Issues & Help"
     pre = "<i class='fa fa-life-ring'></i>"
     url = "/help"
-    weight = 1
+    weight = 4
 
 [[menu.main]]
     name = "FAQ"
     identifier = "faq"
     pre = "<i class='fa fa-question-circle'></i>"
-    weight = 1
+    weight = 5
 
 [[menu.main]]
     name = "Contribute"
     identifier = "contribute"
     url = "/contribute"  
     pre = "<i class='fa fa-wrench'></i>"
-    weight = 3
+    weight = 6
