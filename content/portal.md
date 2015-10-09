@@ -1,8 +1,7 @@
 ---
 date: 2015-01-18T02:41:52-07:00
 menu:
-  main:
-    parent: faq
+  none:
 title: Is GlPortal a free Portal clone
 weight: 0
 ---

@@ -39,6 +39,7 @@ pluralizeListTitles = false
     name = "FAQ"
     identifier = "faq"
     pre = "<i class='fa fa-question-circle'></i>"
+    url = "/faq"
     weight = 5
 
 [[menu.main]]
