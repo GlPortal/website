@@ -21,7 +21,7 @@ We try to support as many platforms as possible contact us if you want to mainta
 ## Will there be multiplayer?
 We did not have time to work on this yet. But you are welcome to take on the project.
 ## Will there be guns?
-We wan't to keep GlPortal family friendly but we are looking forward to add action orientated games in the GlPortal franchise. We want to keep it a seperate game though.
+We want to keep GlPortal family friendly but we are looking forward to add action orientated games in the GlPortal franchise. We want to keep it a seperate game though.
 ## Can I join?
 Yes. Go ahead. Check the menu entry "contribute".
 ## My question is not answered here, where can I ask a question?
