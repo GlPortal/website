@@ -2,7 +2,7 @@
 date: 2015-01-18T02:41:52-07:00
 menu:
   none:
-title: Frequently Asked Questions
+title: FA Questions
 weight: 0
 ---
 ## Will GlPortal run on x?

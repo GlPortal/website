@@ -5,7 +5,7 @@ menu:
 title: About GlPortal
 weight: 0
 ---
-GlPortal is a modern free and open shader based 3d game and game engine with realistic physic simulation. It runs on all modern operating systems including GNU/Linux, Mac and Windows.
+GlPortal is a modern free and open 3d game and game engine with physic simulation. It runs on all modern operating systems including GNU/Linux, Mac and Windows.
 
 ## It is playable
 We always try to get a working prototype released so that you can keep track of our progress and can use the client to test the new features and your maps.
@@ -13,7 +13,7 @@ We always try to get a working prototype released so that you can keep track of 
 {{% iconButton "/download/" "Get the Game" default download %}}
 
 ## It is evolving
-GlPortal is a big open source project and it is still growing. So expect more content and gameplay as we keep developing GlPortal over the years.
+GlPortal is a ambitious open source project and it is still growing. So expect more content and gameplay as we keep developing GlPortal over the years.
 
 {{% iconButton "/overview/" "Get Involved" default rocket %}}
 ## It is hackable

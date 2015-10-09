@@ -8,9 +8,17 @@ weight: 0
 # Game
 You can download binary releases at the following locations:
 
-|Server |
-|-------|
-| http://www.indiedb.com/games/glportal/downloads      |
-| https://bintray.com/glportal/glportal_releases       |
+| Server                                         | OS                                                   |
+|------------------------------------------------|------------------------------------------------------|
+| http://www.indiedb.com/games/glportal/downloads| {{% fa linux %}} {{% fa windows %}} {{% fa apple %}} |
+| https://bintray.com/glportal/glportal_releases | {{% fa linux %}} {{% fa windows %}} {{% fa apple %}} |
 
 Or you can [build from source](https://github.com/GlPortal/glPortal/blob/master/COMPILE.org).
+
+# Map Editor
+You can download binary releases at the following locations:
+
+| Server                                         | OS                                                   |
+|------------------------------------------------|------------------------------------------------------|
+| http://www.indiedb.com/games/glportal/downloads| {{% fa linux %}} {{% fa windows %}} {{% fa apple %}} |
+| https://bintray.com/glportal/glportal_releases | {{% fa linux %}} {{% fa windows %}} {{% fa apple %}} |
