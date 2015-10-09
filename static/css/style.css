@@ -583,6 +583,11 @@ i.freebsd-19px:before {
     padding: 10px 50px 10px 20px;
 }
 
+.nav .top-menu{
+    margin-left: 20%;
+    width: 100%;
+}
+
 @media(max-width:1200px) {
     .toc {
         display: none;
