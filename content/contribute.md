@@ -2,7 +2,7 @@
 date: 2015-01-18T02:41:52-07:00
 menu:
   none: 
-title: Contributing Overview
+title: Contribute
 weight: 0
 ---
 You are enthusiastic about game development? Contributing is easy.
