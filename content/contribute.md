@@ -29,9 +29,7 @@ If you want to work on the map editor you need Python knowledge. Blender specifi
 - fork us on github
 - fix the issue
 - send us a pull request
-- wait for us to accept the PR or to comment on it
-- if we did not accept your PR at first keep commiting until we accept your PR
-- you are part of the team now
+- we will accept the PR or comment on it
 
 {{% iconButton "https://github.com/GlPortal/glPortal" "Github" default github %}}
 {{% iconButton "https://bugs.glportal.de/" "Bugtracker" default bug %}}
