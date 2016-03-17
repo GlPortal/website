@@ -2,6 +2,8 @@
 ## Docker
 ### Clone this repository
 
+### Install Docker
+
 ### Develop with docker
 ```
 docker run -it --rm -p 1313:1313 -v $(pwd):/data mbentley/hugo server --bind 0.0.0.0
