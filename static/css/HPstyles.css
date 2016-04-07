@@ -23,6 +23,14 @@ body {
     text-align: center;
 }
 
+#top h1{
+    display: none;
+}
+
+#top a h2{
+    color: grey;
+}
+
 /* Full Page Image Header Area */
 
 .header {
