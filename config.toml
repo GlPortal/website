@@ -13,9 +13,9 @@ pluralizeListTitles = false
   group = "groups"
 
 [[menu.main]]
-    name = "Quick Start"
-    identifier = "quick"
-    url = "/quick"
+    name = "Run"
+    identifier = "run"
+    url = "/run"
     pre = "<i class='fa fa-rocket'></i>"
     weight = 1
 [[menu.main]]
