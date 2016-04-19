@@ -52,6 +52,19 @@
   font-style: normal;
 }
 
+.btn-primary {
+  color: #ffffff;
+  background-color: #f90;
+  border-color: #f90;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+  color: #f90;
+  border-color: #f90;
+  background: transparent;
+}
+
 html,
 body {
     height: 100%;
