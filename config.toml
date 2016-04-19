@@ -48,3 +48,10 @@ pluralizeListTitles = false
     url = "/contribute"  
     pre = "<i class='fa fa-wrench'></i>"
     weight = 6
+    
+[[menu.main]]
+    name = "Tester"
+    identifier = "tester"
+    url = "/contribute/tester"  
+    pre = "<i class='fa fa-wrench'></i>"
+    weight = 6
