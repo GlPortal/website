@@ -1,7 +1,8 @@
 ---
 date: 2015-01-18T02:41:52-07:00
 menu:
-  none: 
+  main:
+    parent: contribute
 title: Contribute-Misc
 weight: 0
 ---
