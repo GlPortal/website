@@ -27,5 +27,5 @@ Yes. Go ahead. Check the menu entry "contribute".
 ## My question is not answered here, where can I ask a question?
 Join the chat or the community site.
 
-{{% iconButton "http://webchat.freenode.net/?channels=%23%23glportal&uio=d4" "Chat" default group %}}
+{{% iconButton "http://webchat.freenode.net/?channels=%23glportal&uio=d4" "Chat" default group %}}
 {{% iconButton "https://community.glportal.de" "Community" default group %}}
