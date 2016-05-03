@@ -11,12 +11,17 @@ pluralizeListTitles = false
 [taxonomies]
   tag = "tags"
   group = "groups"
-
 [[menu.main]]
     name = "Run"
     identifier = "run"
     url = "/run"
     pre = "<i class='fa fa-rocket'></i>"
+    weight = 1
+[[menu.main]]
+    name = "Media"
+    identifier = "media"
+    url = "/media"
+    pre = "<i class='fa fa-image'></i>"
     weight = 1
 [[menu.main]]
     name = "Download"
