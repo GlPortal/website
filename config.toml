@@ -16,18 +16,18 @@ pluralizeListTitles = false
     identifier = "run"
     url = "/run"
     pre = "<i class='fa fa-rocket'></i>"
-    weight = 1
+    weight = 2
 [[menu.main]]
     name = "Media"
     identifier = "media"
     url = "/media"
     pre = "<i class='fa fa-image'></i>"
-    weight = 1
+    weight = 9
 [[menu.main]]
     name = "Download"
     pre = "<i class='fa fa-download'></i>"
     url = "/download"
-    weight = 2
+    weight = 1
 [[menu.main]]
     name = "About"
     pre = "<i class='fa fa-book'></i>"
