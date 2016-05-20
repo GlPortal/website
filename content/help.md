@@ -17,7 +17,8 @@ To report a bug please:
 
 - Get feedback about your issue and notifications when we fix it.
 
-![Screenshot of the bugtracker](../img/bugs-screenshot.png)
+{{% image "Screenshot of the bugtracker" "../img/bugs-screenshot.png" %}}
+
 ## Get help
 Need help setting up GlPortal or fixing a problem with it?
 Join our irc channel or our community site if you want to talk to a developer first hand.

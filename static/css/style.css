@@ -600,5 +600,7 @@ i.freebsd-19px:before {
     }
 }
 
-
+.shadow {
+    box-shadow:0 0 1em black;
+}
 
