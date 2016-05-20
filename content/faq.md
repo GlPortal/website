@@ -7,13 +7,12 @@ weight: 0
 ---
 ## Will GlPortal run on my operating system?
 We try to support as many platforms as possible contact us if you want to maintain a build for your operating system.
-
-## Can I create my own game with the GlPortal Engine?
+## Can I create my own game with RadixEngine?
 Yes and we highly encourage it.
 ## Can I play Portal, Half Life or other games with the GlPortal engine?
 Compatibility to map format and assets of Portal or Half Life does not exist.
 ## Is GlPortal a Portal clone?
-GlPortal is not a Portal clone. It has similar gameplay and visual elements.
+GlPortal is not a Portal clone. It has some gameplay elements and visual elements in common with Portal.
 ## Why don't you implement x?
 We love to implement features. However often times things get pushed to the backlog because there is more important stuff to do.
 ## Why is there no current build for operating system x?
