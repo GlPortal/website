@@ -27,4 +27,4 @@ Yes. Go ahead. Check the menu entry "contribute".
 Join the chat or the community site.
 
 {{% iconButton "http://webchat.freenode.net/?channels=%23glportal&uio=d4" "Chat" default group %}}
-{{% iconButton "https://community.glportal.de" "Community" default group %}}
+{{% iconButton "https://gitter.im/GlPortal/glPortal" "Board" default group %}}
