@@ -12,7 +12,7 @@ Yes and we highly encourage it.
 ## Can I play Portal, Half Life or other games with the GlPortal engine?
 Compatibility to map format and assets of Portal or Half Life does not exist.
 ## Is GlPortal a Portal clone?
-GlPortal is not a Portal clone. It has some gameplay elements and visual elements in common with Portal.
+GlPortal has some gameplay elements and visual elements in common with Portal.
 ## Why don't you implement x?
 We love to implement features. However often times things get pushed to the backlog because there is more important stuff to do.
 ## Why is there no current build for operating system x?
@@ -27,4 +27,4 @@ Yes. Go ahead. Check the menu entry "contribute".
 Join the chat or the community site.
 
 {{% iconButton "http://webchat.freenode.net/?channels=%23glportal&uio=d4" "Chat" default group %}}
-{{% iconButton "https://community.glportal.de" "Community" default group %}}
+{{% iconButton "https://gitter.im/GlPortal/glPortal" "Board" default group %}}
