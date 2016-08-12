@@ -13,7 +13,7 @@ We always try to get a working prototype released so that you can keep track of 
 {{% iconButton "/download/" "Get the Game" default download %}}
 
 ## Evolving
-GlPortal is a ambitious open source project and it is still growing. So expect more content and gameplay as we keep developing GlPortal over the years.
+GlPortal is a ambitious open source project and it is still growing. So expect more content and gameplay as we keep developing GlPortal.
 
 {{% iconButton "/overview/" "Get Involved" default rocket %}}
 ## Hackable
