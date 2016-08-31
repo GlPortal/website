@@ -101,7 +101,7 @@ body {
     font-family: 'Lato', sans-serif;
     padding: 0px !important;
     margin: 0px !important;
-    font-size:16px !important;    
+    font-size:16px !important;
     font-weight: 300;
 }
 
@@ -134,7 +134,7 @@ a, a:hover, a:focus {
   content: "";
   height: 1px;
   width: 0%;
-  background-color: #ff4088;
+  background-color: #337ab7;
   -webkit-transition: width 0.5s ease;
   -moz-transition: width 0.5s ease;
   -ms-transition: width 0.5s ease;
@@ -148,11 +148,11 @@ a, a:hover, a:focus {
 input:focus, textarea:focus { outline: none; }
 *:focus {outline: none;}
 ::selection {
-    background: #ff4088;
+    background: #007aff;
     color: #fff;
 }
 ::-moz-selection {
-    background: #ff4088;
+    background: #007aff;
     color: #fff;
 }
 
@@ -216,7 +216,7 @@ ul.sidebar-menu li ul.sub li a {
 }
 
 ul.sidebar-menu li ul.sub li a:hover, ul.sidebar-menu li ul.sub li.active a {
-    color: #ff4088;
+    color: #007aff;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
@@ -259,7 +259,7 @@ ul.sidebar-menu li a{
 
 ul.sidebar-menu li.active a, ul.sidebar-menu li a:hover, ul.sidebar-menu li a:focus {
     background: #eeeeee;
-    color: #ff4088;
+    color: #007aff;
     display: block;
     /*border-radius: 4px;
     -webkit-border-radius: 4px;*/
@@ -267,34 +267,34 @@ ul.sidebar-menu li.active a, ul.sidebar-menu li a:hover, ul.sidebar-menu li a:fo
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     -ms-transition: all 0.3s ease;
-    transition: all 0.3s ease;        
+    transition: all 0.3s ease;
 }
 ul.sidebar-menu li a:hover, ul.sidebar-menu li a:focus {
-    border-bottom: 1px solid #ff4088;
+    border-bottom: 1px solid #007aff;
 }
 /*ul.sidebar-menu li.active a,*/ ul.sidebar-menu .sub-menu li.active a{
-    border-bottom: 1px solid #ff4088;   
+    border-bottom: 1px solid #007aff;
 }
 
 ul.sidebar-menu li a i {
     font-size: 18px;
     padding-right: 6px;
-    /*color: #ff4088;*/
+    /*color: #007aff;*/
 }
 
 ul.sidebar-menu li a:hover i, ul.sidebar-menu li a:focus i {
-    color: #ff4088;
+    color: #007aff;
 }
 
 ul.sidebar-menu li.active a i {
-    color: #ff4088;
+    color: #007aff;
 }
 
 
-#sidebar ul > li > a .menu-arrow { 
-    float: right;    
+#sidebar ul > li > a .menu-arrow {
+    float: right;
     margin-right: 8px;
-    margin-top: 6px;    
+    margin-top: 6px;
 }
 
 #main-content {
