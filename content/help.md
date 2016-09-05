@@ -5,6 +5,9 @@ menu:
 title: Issues & Help
 weight: 0
 ---
+## Get help
+Need help setting up GlPortal or fixing a problem with it?
+Join our irc channel or our community site if you want to talk to a developer first hand.
 
 ## Report a bug
 To report a bug please:
@@ -19,6 +22,4 @@ To report a bug please:
 
 {{% image "Screenshot of the bugtracker" "../img/bugs-screenshot.png" %}}
 
-## Get help
-Need help setting up GlPortal or fixing a problem with it?
-Join our irc channel or our community site if you want to talk to a developer first hand.
+
