@@ -1,9 +1,7 @@
 # GlPortal Website
 ## Docker
-### Clone this repository
-
-# Install Docker
-Install docker on the system you want to run the website on.
+- Clone this repository
+- Install Docker
 
 ### Develop with docker compose
 ```
