@@ -1,0 +1,10 @@
+version: '2'
+
+services:
+  hugo:
+    image: mbentley/hugo
+    command: server --bind 0.0.0.0
+    ports:
+      - "1100:1313"
+    volumes:
+      - ./:/data
