@@ -12,7 +12,7 @@ If you want to create maps for GlPortal you need basic knowledge of blender and 
 
 ## Quick start
 - get blender
-- go through blender tutorials
+- learn blender basics
 - install the GlPortal blender plugin
 
 {{% iconButton "http://archive.blender.org/download/get-blender/index.html" "Download Blender" default cube %}}
