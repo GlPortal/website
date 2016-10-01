@@ -1,0 +1,3 @@
+[submodule "themes/radix"]
+	path = themes/radix
+	url = git@github.com:GlPortal/website-radix-theme.git
