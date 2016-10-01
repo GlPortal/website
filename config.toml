@@ -3,7 +3,6 @@ baseurl = "http://glportal.de/"
 MetaDataFormat = "yaml"
 pluralizeListTitles = false
 
-
 [params]
   description = "Documentation of Hugo, a fast and flexible static site generator built with love by spf13 and friends in Go"
   author = "GlPortal Team"
@@ -39,14 +38,12 @@ pluralizeListTitles = false
     pre = "<i class='fa fa-life-ring'></i>"
     url = "/help"
     weight = 4
-
 [[menu.main]]
     name = "FAQ"
     identifier = "faq"
     pre = "<i class='fa fa-question-circle'></i>"
     url = "/faq"
     weight = 5
-
 [[menu.main]]
     name = "Contribute"
     identifier = "contribute"
