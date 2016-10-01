@@ -560,13 +560,6 @@ i.freebsd-19px:before {
     height: 100%;
 }
 
-/* Google custom search */
-.cse {
-    margin-top: 20px;
-    padding-right: 20px;
-}
-
-
 /* Table of contents */
 
 .toc ul { list-style: none; margin: 0; padding: 0 5px;  }
@@ -597,8 +590,4 @@ i.freebsd-19px:before {
     .toc {
         display: none;
     }
-}
-
-.shadow {
-    box-shadow:0 0 1em black;
 }
