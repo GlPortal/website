@@ -2,7 +2,7 @@ title = "GlPortal the free action adventure"
 baseurl = "http://glportal.de/"
 MetaDataFormat = "yaml"
 pluralizeListTitles = false
-
+theme = "radix"
 [params]
   description = "Documentation of Hugo, a fast and flexible static site generator built with love by spf13 and friends in Go"
   author = "GlPortal Team"
