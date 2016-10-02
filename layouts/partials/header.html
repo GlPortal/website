@@ -30,15 +30,11 @@
               <!-- notification dropdown end-->
               <div class="hidden-xs pull-right">
                   {{ partial "duck-search.html" . }}
-                </div>
+              </div>
 
-                <div class="hidden-xs hidden-sm nav-github pull-right">
-                  <span rel="show-github" data-user="GlPortal" data-repo="glPortal" data-type="follow">
-                  </span>
-                  <span rel="show-github" data-user="GlPortal" data-repo="glPortal"></span>
-                  <span rel="show-github" data-user="GlPortal" data-repo="glPortal" data-type="fork">
-                  </span>
-                </div>
+              <div class="hidden-xs hidden-sm nav-github pull-right">
+                {{ partial "github.html" . }}
+              </div>
             </div>
 
             <div class="nav title-row visible-md-block visible-lg-block" id="top_menu">
