@@ -8,8 +8,7 @@
 
     <title>GlPortal a Free and Open Source 3D action game</title>
 
-    <!-- Bootstrap core CSS -->
-    <link href="/css/bootstrap-theme.css" rel="stylesheet">
+    <link href="style.min.css" rel="stylesheet">
 
     <!-- Add custom CSS here -->
     <link href="/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -203,43 +202,12 @@
 
   <!-- Bootstrap core JavaScript -->
   <!-- Placed at the end of the document so the pages load faster -->
-  <script src="/js/jquery-2.1.1.min.js"></script>
+  <!-- script src="/js/jquery-2.1.1.min.js"></script -->
+  <script src="/script.min.js"></script>
   <script src="/js/owl.carousel.min.js"></script>
-  <script src="/js/bootstrap.min.js"></script>
+  <script src="https://www.atlasestateagents.co.uk/javascript/tether.min.js"></script>
   <script>
-    $(function() {
-        $('a[href*=#]:not([href=#])').click(function() {
-          if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
-              || location.hostname == this.hostname) {
-
-            var target = $(this.hash);
-            target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-            if (target.length) {
-              $('html,body').animate({
-                scrollTop: target.offset().top
-              }, 1000);
-              return false;
-            }
-          }
-        });
-      });
-    $('.owl-carousel').owlCarousel({
-        loop:true,
-        margin:10,
-        nav:true,
-        autoplay:true,
-        autoplayHoverPause:true,
-        autoplayTimeout:3000,
-        responsive:{
-            0:{
-                items:1
-            },
-            1000:{
-                items:3
-            },
-        }
-    })
-    </script>
+  </script>
 
   {{ partial "analytics.html" . }}
   </body>
