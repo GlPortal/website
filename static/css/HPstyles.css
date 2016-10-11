@@ -324,10 +324,6 @@ footer a:hover {
     border-color: black;
 }
 
-.btn-info:hover, .btn-primary:hover, .btn-success:hover {
-    background: aliceblue;
-}
-
 .owl-carousel blockquote {
     border-left: 0px;
 }
