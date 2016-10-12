@@ -104,7 +104,6 @@ body {
     width: 100%;
     min-height: 70%;
     position: relative;
-    background: url(../img/background-blank.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
