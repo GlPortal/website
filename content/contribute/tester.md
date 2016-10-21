@@ -6,7 +6,6 @@ menu:
 title: Tester
 weight: 1
 ---
-## Tester
 Can contributing to open source be as easy as playing a video game? Yes it can.
 By playing you help us identify errors in the game or you come up with features that improve the game.
 
