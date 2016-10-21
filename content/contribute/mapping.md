@@ -7,7 +7,6 @@ title: Mapping
 weight: 1
 ---
 
-# Mapping
 If you want to create maps for GlPortal you need basic knowledge of blender and map design. You can find the instructions on how to install and use the map editor here.
 
 ## Quick start
