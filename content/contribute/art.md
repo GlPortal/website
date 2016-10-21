@@ -7,7 +7,6 @@ title: Art
 weight: 1
 ---
 
-# Art
 Check with us which assets we need and you can choose the task that suits you best.
 Knowledge of git is useful but not required.
 
