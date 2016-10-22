@@ -12,7 +12,7 @@ Join our irc channel or our community site if you want to talk to a developer fi
 ## Report a bug
 To report a bug please:
 
-- Register with our site http://bugs.glportal.de .
+- Register with our bug tracker http://bugs.glportal.de .
 
 - Create a new Issue in the GlPortal project.
 
