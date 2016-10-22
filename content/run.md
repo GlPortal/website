@@ -6,4 +6,4 @@ title: Run
 weight: 0
 ---
 - [download](/download) the game for your os
-- Run the game with `glportal --datadir ./data`
+- Run the game with `glportal`
