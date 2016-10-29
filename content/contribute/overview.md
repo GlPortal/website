@@ -3,7 +3,7 @@ date: 2015-01-18T02:41:52-07:00
 menu:
   main:
     parent: contribute
-title: Overview
+title: Contribute to GlPortal and RadixEngine
 weight: 0
 ---
 
