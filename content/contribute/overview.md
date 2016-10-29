@@ -8,3 +8,5 @@ weight: 0
 ---
 
 Whether you compose music, create 3D models, textures, like creating levels, have a suggestion like adding a new testing element, or just played the game and liked something, your contribution is incredibly valuable to us!
+
+{{% iconButton "/contribute/art/" "Contribute Art" default paint-brush %}}
