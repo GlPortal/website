@@ -5,7 +5,7 @@ menu:
 title: Download
 weight: 0
 ---
-# Game
+## Game
 You can download binary releases at the following locations:
 
 | Server                                         | OS                                                   |
@@ -15,7 +15,7 @@ You can download binary releases at the following locations:
 
 Or you can [build from source](https://github.com/GlPortal/glPortal/blob/master/COMPILE.org).
 
-# Map Editor
+## Map Editor
 You can download binary releases at the following locations:
 
 | Server                                         | OS                                                   |
