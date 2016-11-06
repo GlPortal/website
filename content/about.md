@@ -18,4 +18,4 @@ GlPortal is a ambitious open source project and it is still growing. So expect m
 
 {{% iconButton "/overview/" "Get Involved" default rocket %}}
 ## Hackable
-You can extend GlPortals functionality with JavaScript. Many of GlPortals features are configurable with json. All tools you need for this are open source.
+Many of GlPortals features are configurable with json. All tools you need for mapping and extending the game are open source.
