@@ -13,3 +13,9 @@ There are plenty of tasks ranging from easy to expert level. You can focus on 2D
 Getting started is as easy as compiling the game or just contact us.
 
 In our stack we are using C++, Python, HTML, CSS and JS.
+
+## Quick Start
+- Create Github Account
+- Fork the GlPortal Repository
+- Compile according to COMPILE.md
+- Create Pull Request
