@@ -12,4 +12,4 @@ Whether you write code, compose music, create 3D models, textures, like creating
 {{% iconButton "/contribute/art/" "Contribute Art" default paint-brush %}}
 {{% iconButton "/contribute/developer/" "Contribute Code" default flask %}}
 {{% iconButton "/contribute/tester/" "Become a Tester" default gamepad %}}
-
+{{% iconButton "/contribute/mapping/" "Become a Level Designer" default map %}}
