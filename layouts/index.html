@@ -18,8 +18,13 @@
   </head>
 
   <body>
-    <!-- Full Page Image Header Area -->
-          <div id="top-menu">Contributor | Press | Player</div>
+      <!-- Full Page Image Header Area -->
+      <div style="position: fixed; top: 10px; z-index: 100000; width: 90%;">
+          {{ partial "top-menu.html" . }}
+      </div>
+      <div id="top-menu">
+
+      </div>
           <div id="top" class="header">
             <video autoplay="" loop="" muted="" style="opacity: 0.7; width: 100%; background: url(img/video.png) no-repeat center center; background-size: cover;" id="splash-video">
               <source src="https://bintray.com/glportal/Videos/download_file?file_path=GlPortal-Website-cropped.mp4" type="video/mp4">
