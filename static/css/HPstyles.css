@@ -52,21 +52,12 @@
   font-style: normal;
 }
 
-html,
-body {
-    height: 100%;
-    width: 100%;
-    letter-spacing: 0.5px;
-    overflow:auto
-}
-
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Cabin', "Helvetica Neue", "Helvetica", sans-serif;
     font-weight: 600;
 }
 
 body {
-
     font-family: 'Merriweather', "Helvetica Neue", "Helvetica", sans-serif !important;
     line-height: 1.6;
 }
@@ -98,23 +89,9 @@ body {
 
 /* Full Page Image Header Area */
 
-.header {
-    display: table;
-    width: 100%;
-    min-height: 50%;
+.video-header {
     position: relative;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    z-index: 99;
-    background-color: black;
-}
-
-.logo {
-    max-width: 800px;
-    width: 100%;
-    padding: 2em;
+    background-color: rgba(0,0,0,0.8);
 }
 
 .buttonbox {
@@ -126,9 +103,8 @@ and (min-device-width : 320px)
 and (max-device-width : 1024px)
 and (orientation : portrait)
 {
-    .header {
+    .video-header {
         width: 100%;
-        position: relative;
     }
 }
 
@@ -136,18 +112,13 @@ and (orientation : portrait)
 and (min-device-width : 320px)
 and (max-device-width : 1024px)
 and (orientation : landscape) {
-    .header {
-        display: table;
+    .video-header {
         width: 100%;
-        position: relative;
-        background: url(../img/desk-long.jpg) no-repeat;
-        background-size: 100% 100%;
         z-index: 99;
-        background-color: black;
     }
 }
 
-.header .btn {
+.video-header .btn {
     margin: 10px;
 }
 
@@ -158,9 +129,6 @@ and (orientation : landscape) {
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
 }
 
-.header .btn {
-    font-weight: 100;
-}
 
 /* Intro */
 
