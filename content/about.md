@@ -17,5 +17,5 @@ We try to get a working prototype released often so that you can keep track of o
 GlPortal is a ambitious open source project and it is still growing. So expect more content and gameplay as we keep developing GlPortal.
 
 {{% iconButton "/overview/" "Get Involved" default rocket %}}
-## Hackable
+
 Many of GlPortals features are configurable with json. All tools you need for mapping and extending the game are open source.
