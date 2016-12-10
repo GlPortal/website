@@ -7,6 +7,11 @@ weight: 0
 ---
 ## Will GlPortal run on my operating system?
 We try to support as many platforms as possible contact us if you want to maintain a build for your operating system.
+## Can I play using my Xbox, Playstation or Steam Controller?
+Use the software antimicro to use your Xbox and Playstation controllers with the game. To use the steam controller
+add GlPortal to steam and set the controller to keyboard & mouse.
+
+At one point in the future we will probably have native controller support.
 ## Can I create my own game with RadixEngine?
 Yes and we highly encourage it.
 ## Can I play Portal, Half Life or other games with the GlPortal engine?
