@@ -1,29 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="GlPortal the action adventure">
-    <meta name="author" content="GlPortal team">
-
-    <title>GlPortal a Free and Open Source 3D action game</title>
-
-    <link href="style.min.css" rel="stylesheet">
-
-    <!-- Add custom CSS here -->
-    <link href="/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="/css/HPstyles.css" rel="stylesheet">
-    <link href="/css/hugofont.css" rel="stylesheet">
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-    {{ partial "styles.html" . }}
-  </head>
-
+{{ partial "header.html" . }}
   <body>
-      <!-- Full Page Image Header Area -->
-      <div style="position: fixed; z-index: 100000; width: 100%;">
-          {{ partial "top-menu.html" . }}
-          {{ partial "menu.html" . }}
-      </div>
+
           <div id="top" class="video-header">
               <video playbackRate="0.1" autoplay="" loop="" muted="" style="opacity: 0.7; width: 100%; background: url(img/video.png) no-repeat center center; background-size: cover;" id="splash-video">
               <source src="https://bintray.com/glportal/Videos/download_file?file_path=GlPortal-Website-cropped.mp4" type="video/mp4" >
